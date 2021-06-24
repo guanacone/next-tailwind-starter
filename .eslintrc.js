@@ -1,3 +1,4 @@
-{
-  "extends": ["next", "next/core-web-vitals"]
-}
+module.exports = {
+  root: true,
+  extends: '@edwmurph/eslint-config/nextjs'
+};
